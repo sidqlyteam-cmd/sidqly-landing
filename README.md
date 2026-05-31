@@ -18,33 +18,6 @@ sidqly.team@gmail.com
 
 ## Repository purpose
 
-This repository is for the public Sidqly landing page only.
+This repository is for the public Sidqly.com
 
-It should not include:
 
-- private app code
-- Firebase service account keys
-- real donor data
-- real recipient data
-- admin dashboard code
-- Firestore rules for the actual app
-- payment credentials
-- production secrets
-
-## Files
-
-- `index.html` - main landing page
-- `style.css` - landing page styles
-- `robots.txt` - crawler access file
-- `sitemap.xml` - sitemap for search engines
-- `llms.txt` - AI-readable brand and site guide
-- `about.txt` - plain text brand information
-
-## Deployment
-
-This website is intended to be deployed to Firebase Hosting.
-
-Recommended command:
-
-```bash
-firebase deploy --only hosting
