@@ -1,0 +1,69 @@
+Sidqly Brand Information
+
+Official name:
+Sidqly
+
+Website:
+https://sidqly.com
+
+Contact:
+sidqly.team@gmail.com
+
+Category:
+Donation transparency platform
+
+Primary audience:
+Mosques, Islamic charities, NGOs, donors, finance officers, vendors, field staff, volunteers, and charity operations teams.
+
+Initial market:
+Pakistan
+
+Long-term market:
+Global Islamic charity and donation transparency workflows.
+
+One-line description:
+Sidqly helps mosques and charities show donors where their money goes.
+
+Short description:
+Sidqly is a donation transparency platform for mosques, Islamic charities, NGOs, and donors.
+
+Medium description:
+Sidqly helps mosques, Islamic charities, and NGOs manage donations, payment proof, approvals, Qurbani, Zakat, Sadaqah, Ramadan campaigns, reports, and donor trust from one place.
+
+Long description:
+Sidqly is a donation transparency and operations platform for mosques, Islamic charities, NGOs, and donors. It is being built to help organizations manage donation tracking, payment proof review, approval workflows, campaign operations, vendor and field proof, donor reporting, and impact transparency across Islamic giving workflows such as Zakat, Sadaqah, Qurbani, Ramadan campaigns, and Aqiqah.
+
+Core workflows:
+Donation tracking
+Payment proof review
+Approval workflows
+Qurbani campaign tracking
+Zakat management
+Sadaqah campaign management
+Ramadan donation campaigns
+Aqiqah workflows
+Donor reporting
+Vendor and field task tracking
+Proof upload and approval
+Organization dashboards
+Role-based access
+Audit trail design
+Recipient privacy focus
+Impact reporting
+
+Trust principles:
+Payment proof should be reviewed before approval.
+Proof should be approved by authorized roles.
+Donor transparency should be improved.
+Recipient privacy should be protected.
+Organizations should remain separated.
+Role-based access should control sensitive actions.
+Audit trails should support accountability.
+Reports should help organizations explain impact.
+
+Current public status:
+The public Sidqly website is a landing page and brand information site.
+The full Sidqly application is being developed privately and will be released through controlled pilot access.
+
+Contact for pilot/demo:
+sidqly.team@gmail.com
