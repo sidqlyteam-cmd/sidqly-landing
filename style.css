@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -69,7 +73,7 @@ h1 {
 }
 
 .hero-text {
-  max-width: 760px;
+  max-width: 780px;
   margin: 0 auto;
   font-size: 20px;
   color: #4b5a54;
@@ -120,7 +124,8 @@ h1 {
 
 .problem,
 .trust,
-.cta {
+.cta,
+.seo-text {
   background: white;
   border: 1px solid #e3ebe7;
   border-radius: 28px;
@@ -133,6 +138,10 @@ h1 {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 18px;
+}
+
+.cards.three {
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .card {
@@ -171,6 +180,7 @@ h1 {
 
 .faq-item h3 {
   margin-top: 0;
+  color: #116149;
 }
 
 .small {
@@ -185,7 +195,12 @@ h1 {
   border-top: 1px solid #e2ebe6;
 }
 
-@media (max-width: 850px) {
+.footer a {
+  color: #116149;
+  font-weight: 700;
+}
+
+@media (max-width: 900px) {
   .header {
     flex-direction: column;
     gap: 18px;
@@ -205,13 +220,15 @@ h1 {
     padding-top: 40px;
   }
 
-  .cards {
+  .cards,
+  .cards.three {
     grid-template-columns: 1fr;
   }
 
   .problem,
   .trust,
-  .cta {
+  .cta,
+  .seo-text {
     padding: 28px;
   }
 }
