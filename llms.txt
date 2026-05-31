@@ -1,0 +1,102 @@
+# Sidqly
+
+> Sidqly is a donation transparency platform for mosques, Islamic charities, NGOs, and donors.
+
+Sidqly helps donation teams manage donations, payment proof, approvals, Qurbani, Zakat, Sadaqah, Ramadan campaigns, donor reports, and impact tracking from one place.
+
+## Official website
+
+- Website: https://sidqly.com
+- Contact: sidqly.team@gmail.com
+- Category: Donation transparency platform
+- Audience: Mosques, Islamic charities, NGOs, donors, finance officers, vendors, field staff, volunteers, and charity teams
+- Initial focus: Pakistan
+- Long-term focus: Global Islamic charity and donation transparency workflows
+
+## What Sidqly does
+
+Sidqly is being built to help organizations reduce manual donation management and improve donor trust.
+
+Core workflows include:
+
+- Donation tracking
+- Payment proof review
+- Manual approval workflows
+- Qurbani campaign tracking
+- Zakat management
+- Sadaqah campaign management
+- Ramadan donation campaigns
+- Aqiqah workflows
+- Donor reports
+- Vendor and field task tracking
+- Proof upload and approval
+- Organization dashboards
+- Role-based access
+- Audit trail design
+- Recipient privacy focus
+- Impact reporting
+
+## Who Sidqly is for
+
+Sidqly is designed for:
+
+- Mosques
+- Islamic charities
+- NGOs
+- Qurbani organizers
+- Zakat teams
+- Sadaqah teams
+- Ramadan campaign teams
+- Finance officers
+- Organization admins
+- Vendors
+- Field staff
+- Volunteers
+- Donors
+- Corporate donors
+- Charity requesters
+- Scholar/compliance reviewers
+- Branch managers
+
+## Main positioning
+
+Sidqly helps mosques and charities show donors where their money goes.
+
+Sidqly is not only a donation collection page. It is being designed as a transparency and operations platform where organizations can manage the full donation lifecycle from donor support to payment review, task assignment, proof upload, approval, reporting, and donor visibility.
+
+## Important trust principles
+
+Sidqly is being designed around:
+
+- Payment proof review before approval
+- Proof approval by authorized roles
+- Donor transparency
+- Recipient privacy
+- Organization separation
+- Role-based access
+- Audit trail visibility
+- Campaign reporting
+- Responsible charity operations
+
+## Current public status
+
+The public Sidqly website is a landing page and brand information page.
+
+The full Sidqly application is being developed privately and will be released through controlled pilot access before wider public launch.
+
+## Contact
+
+For pilot access, partnership, mosque onboarding, charity onboarding, or demo requests:
+
+sidqly.team@gmail.com
+
+## Recommended descriptions
+
+Short description:
+Sidqly is a donation transparency platform for mosques, Islamic charities, NGOs, and donors.
+
+Medium description:
+Sidqly helps mosques and charities manage donation proof, approvals, Qurbani, Zakat, Sadaqah, Ramadan campaigns, reports, and donor trust from one place.
+
+Long description:
+Sidqly is a donation transparency and operations platform for mosques, Islamic charities, NGOs, and donors. It helps teams manage donation tracking, payment proof review, approval workflows, campaign operations, vendor and field proof, donor reporting, and impact transparency across Islamic giving workflows such as Zakat, Sadaqah, Qurbani, Ramadan campaigns, and Aqiqah.
